@@ -35,4 +35,10 @@ class MovileList {
     return this.movieWrapper;
   }
 }
+
+
+
+
+
+
 export default MovileList;
