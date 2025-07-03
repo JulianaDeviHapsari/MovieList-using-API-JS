@@ -10,7 +10,7 @@ Movie List using API, vanila CSS, and javascript in Fast Campus Course
 
 ## ScreenShot
 
-![Documentation](https://github.com/JulianaDeviHapsari/movie/blob/main/MovieList_ScreenShoot.png)
+![Documentation](https://github.com/JulianaDeviHapsari/movie/blob/main/MovieList_ScreenShoot1.png)
 
 
 ## Tech Stack
