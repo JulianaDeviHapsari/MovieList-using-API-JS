@@ -1,6 +1,6 @@
 import Button from "../../UI/Button/index.js";
 import MovieItem from '../../container/MovieItem/index.js';
-import Loader from '../../UI/Loader/index.js';
+import Loader from '../../UI/loader/index.js';
 
 class MovileList {
   constructor(props) {
