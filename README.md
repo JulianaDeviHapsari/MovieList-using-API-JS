@@ -1,4 +1,4 @@
-# Movie List using API 
+# Movie List using API & JavaScript
 
 Movie List using API, vanila CSS, and javascript in Fast Campus Course
 
