@@ -5,7 +5,7 @@ Movie List using API, vanila CSS, and javascript in Fast Campus Course
 
 ## Demo
 
-[MovieList-Vanilla](https://movie-vanilla.vercel.app/#)
+[MovieList-API-JavaScript](https://movielist-api-js.vercel.app/#)
 
 
 ## ScreenShot
